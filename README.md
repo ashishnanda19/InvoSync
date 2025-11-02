@@ -169,7 +169,7 @@ In **InvoSync**, it’s used inside `backend/ocr.py` to process invoice and purc
 [**Ashish Kumar Nanda**](https://github.com/ashishnanda19)<br>
 [**Kushagra Gupta**](https://github.com/kushagragupta04)<br>
 [**Rashi Gupta**](https://github.com/Rashi228)<br>
-[**Radhi Pahuja**](https://github.com/ridz3)
+[**Ridhi Pahuja**](https://github.com/ridz3)
   
  
 
